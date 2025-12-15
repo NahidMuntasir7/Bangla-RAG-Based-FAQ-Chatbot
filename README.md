@@ -2,6 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) based FAQ chatbot supporting Bangla language with automatic category detection and metadata filtering.
 
+## Project Walkthrough Video Link
+[https://drive.google.com/file/d/1OH1q-h-NSOeDhlYAz1Gw-FaSWrU4yE-T/view](https://drive.google.com/file/d/1ADeLsAzVdi7wiwBL3dWCWViRMkA9F733/view?usp=drive_link)
+
 ## ✨ Features
 
 - **5 Bangla Topics**:  শিক্ষা (Education), স্বাস্থ্য (Health), ভ্রমণ (Travel), প্রযুক্তি (Technology), খেলাধুলা (Sports)  
