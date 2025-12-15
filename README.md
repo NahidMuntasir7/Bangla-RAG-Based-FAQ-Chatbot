@@ -118,4 +118,4 @@ GitHub: [@NahidMuntasir7](https://github.com/NahidMuntasir7)
 
 ## Acknowledgments
 
-- Bengali SBERT model by [L3Cube Pune]([https://github.com/l3cube-pune](https://huggingface.co/l3cube-pune/bengali-sentence-similarity-sbert)
+- Bengali SBERT model by [L3Cube Pune]([https://huggingface.co/l3cube-pune/bengali-sentence-similarity-sbert])
