@@ -91,7 +91,7 @@ App opens at:  `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-bangla-faq-chatbot/
+Bangla-RAG-Based-FAQ-Chatbot/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── .env                   # Environment variables (create this)
