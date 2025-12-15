@@ -48,8 +48,7 @@ GITHUB_TOKEN=your_github_token_here
 **Get your token:**
 1. Visit https://github.com/settings/tokens
 2. Click "Generate new token (classic)"
-3. Select `repo` scope
-4. Copy and paste into `.env`
+3. Copy and paste into `.env`
 
 ### 3. Run Application
 
