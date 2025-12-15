@@ -6,7 +6,7 @@ A Retrieval-Augmented Generation (RAG) based FAQ chatbot supporting Bangla langu
 
 **5 Bangla Topics**:  শিক্ষা (Education), স্বাস্থ্য (Health), ভ্রমণ (Travel), প্রযুক্তি (Technology), খেলাধুলা (Sports)  
 **RAG Pipeline**:  FAISS vector store with semantic search  
-**AI Category Routing**: Automatic question classification using LLM 
+**AI Category Routing**: Automatic question classification using LLM  
 **Metadata Filtering**: Filter by topic and difficulty level 
 **Fallback Handling**: Graceful responses for out-of-scope questions  
 **Chat History**: Track all conversations  
